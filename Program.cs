@@ -1,4 +1,10 @@
 ﻿using CsharpOperation.ArrayLesson;
+using CsharpOperation.GraphLesson;
+using CsharpOperation.HashTableLesson;
+using CsharpOperation.LinkedListLesson;
+using CsharpOperation.QueueLesson;
+using CsharpOperation.RecursionLesson;
+using CsharpOperation.TreeLesson;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -24,11 +30,41 @@ namespace CsharpOperation
             //new ArrayPrac().GetMatrixArr(); //相乘矩陣
             //new ArrayPrac().ReverMatrixArr(); //轉置矩陣
             //new ArrayPrac().SparceMatrixArr(); //稀疏矩陣
+            //SparseArray.Run();
             //---------------------------------------------
-
+            //對列
+            //ArrayQueue.Run();
             //鏈結串列
             //---------------------------------------------
+            //單鍊表
+            //LinkedList1.Run();
 
+            //遞歸
+            //地圖回溯
+            //MiGong.Run();
+            //八皇后
+            //EightQueen.Run();
+
+            //哈希表
+            //HashTable1.Run();
+
+            //樹
+            //BinaryTreeDemo1.Run();
+            //ArrayBinaryTreeDemo1.Run();
+            //ThreadedBinaryTreeDemo1.Run();
+            HeapSortDemo1.Run();
+
+
+            //圖
+            //GraphLesson1.Run();
+            //DFS
+            //DepthFirstSearch.Run();
+            //BFS
+            //BroadFirstSearch.Run();
+            //DFS、BFS 比較
+            //CompareBFSDFS.Run();
+
+            ReadKey();
 
         }
     }

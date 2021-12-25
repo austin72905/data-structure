@@ -52,8 +52,8 @@ namespace CsharpOperation
             //BinaryTreeDemo1.Run();
             //ArrayBinaryTreeDemo1.Run();
             //ThreadedBinaryTreeDemo1.Run();
-            HeapSortDemo1.Run();
-
+            //HeapSortDemo1.Run();
+            BinarySortTreeDemo1.Run();
 
             //圖
             //GraphLesson1.Run();

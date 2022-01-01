@@ -60,6 +60,7 @@
     <Compile Include="SortLesson\Sort1.cs" />
     <Compile Include="SortLesson\TimeComplex.cs" />
     <Compile Include="TreeLesson\ArrayBinaryTreeDemo1.cs" />
+    <Compile Include="TreeLesson\AVLTreeDemo1.cs" />
     <Compile Include="TreeLesson\BinarySortTreeDemo1.cs" />
     <Compile Include="TreeLesson\BinaryTreeDemo1.cs" />
     <Compile Include="TreeLesson\HeapSortDemo1.cs" />

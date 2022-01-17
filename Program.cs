@@ -1,4 +1,5 @@
-﻿using CsharpOperation.ArrayLesson;
+﻿using CsharpOperation.Algorithm.GreedLesson;
+using CsharpOperation.ArrayLesson;
 using CsharpOperation.GraphLesson;
 using CsharpOperation.HashTableLesson;
 using CsharpOperation.LinkedListLesson;
@@ -54,7 +55,7 @@ namespace CsharpOperation
             //ThreadedBinaryTreeDemo1.Run();
             //HeapSortDemo1.Run();
             //BinarySortTreeDemo1.Run();
-            AVLTreeDemo1.Run();
+            //AVLTreeDemo1.Run();
 
             //圖
             //GraphLesson1.Run();
@@ -64,6 +65,11 @@ namespace CsharpOperation
             //BroadFirstSearch.Run();
             //DFS、BFS 比較
             //CompareBFSDFS.Run();
+
+
+            //------------演算法----------------
+            //貪心算法
+            GreedLessonDemo1.Run();
 
             ReadKey();
 

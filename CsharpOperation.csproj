@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Algorithm\GreedLesson\GreedLessonDemo1.cs" />
     <Compile Include="ArrayLesson\ArrayPrac.cs" />
     <Compile Include="ArrayLesson\SparseArray.cs" />
     <Compile Include="GraphLesson\BroadFirstSearch.cs" />
@@ -63,6 +64,7 @@
     <Compile Include="TreeLesson\AVLTreeDemo1.cs" />
     <Compile Include="TreeLesson\BinarySortTreeDemo1.cs" />
     <Compile Include="TreeLesson\BinaryTreeDemo1.cs" />
+    <Compile Include="TreeLesson\BTreeDemo1.cs" />
     <Compile Include="TreeLesson\HeapSortDemo1.cs" />
     <Compile Include="TreeLesson\ThreadedBinaryTreeDemo1.cs" />
     <Compile Include="TreeLesson\Tree1.cs" />

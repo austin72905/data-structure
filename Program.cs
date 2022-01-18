@@ -1,4 +1,6 @@
-﻿using CsharpOperation.Algorithm.GreedLesson;
+﻿using CsharpOperation.Algorithm.DynamicProgramLesson;
+using CsharpOperation.Algorithm.GreedLesson;
+using CsharpOperation.Algorithm.KMPLesson;
 using CsharpOperation.ArrayLesson;
 using CsharpOperation.GraphLesson;
 using CsharpOperation.HashTableLesson;
@@ -69,8 +71,14 @@ namespace CsharpOperation
 
             //------------演算法----------------
             //貪心算法
-            GreedLessonDemo1.Run();
+            //GreedLessonDemo1.Run();
 
+            //動態規劃算法
+            //KnapsackProblem.Run();
+
+
+            //KMP算法
+            KMPLessonDemo1.Run();
             ReadKey();
 
         }

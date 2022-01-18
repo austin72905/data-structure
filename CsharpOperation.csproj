@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Algorithm\DynamicProgramLesson\KnapsackProblem.cs" />
     <Compile Include="Algorithm\GreedLesson\GreedLessonDemo1.cs" />
+    <Compile Include="Algorithm\KMPLesson\KMPLessonDemo1.cs" />
     <Compile Include="ArrayLesson\ArrayPrac.cs" />
     <Compile Include="ArrayLesson\SparseArray.cs" />
     <Compile Include="GraphLesson\BroadFirstSearch.cs" />

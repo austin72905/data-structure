@@ -1,4 +1,5 @@
-﻿using CsharpOperation.Algorithm.DynamicProgramLesson;
+﻿using CsharpOperation.Algorithm.DijkstraLesson;
+using CsharpOperation.Algorithm.DynamicProgramLesson;
 using CsharpOperation.Algorithm.GreedLesson;
 using CsharpOperation.Algorithm.KMPLesson;
 using CsharpOperation.ArrayLesson;
@@ -78,7 +79,10 @@ namespace CsharpOperation
 
 
             //KMP算法
-            KMPLessonDemo1.Run();
+            //KMPLessonDemo1.Run();
+
+            //Dijkstra 算法
+            DijkstraLessonDemo1.Run();
             ReadKey();
 
         }

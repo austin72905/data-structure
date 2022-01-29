@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Algorithm\DijkstraLesson\DijkstraLessonDemo1.cs" />
     <Compile Include="Algorithm\DynamicProgramLesson\KnapsackProblem.cs" />
     <Compile Include="Algorithm\GreedLesson\GreedLessonDemo1.cs" />
     <Compile Include="Algorithm\KMPLesson\KMPLessonDemo1.cs" />
